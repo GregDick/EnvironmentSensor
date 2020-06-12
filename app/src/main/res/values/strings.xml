@@ -2,4 +2,8 @@
     <string name="app_name">EnvironmentSensor</string>
     <string name="pressure_header">Pressure:</string>
     <string name="pressure_value">%s inHg</string>
+    <string name="light_header">Light:</string>
+    <string name="light_value">%s lx</string>
+    <string name="magnetic_header">Magnetic Field:</string>
+    <string name="magnetic_value">%s uT</string>
 </resources>
