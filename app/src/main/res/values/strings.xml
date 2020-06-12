@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EnvironmentSensor</string>
+    <string name="pressure_header">Pressure:</string>
+    <string name="pressure_value">%s inHg</string>
 </resources>
