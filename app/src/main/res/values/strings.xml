@@ -6,4 +6,10 @@
     <string name="light_value">%s lx</string>
     <string name="magnetic_header">Magnetic Field:</string>
     <string name="magnetic_value">%s uT</string>
+    <string name="gyroscope">Gyroscope radians/second:</string>
+    <string name="gyroscope_value">X axis: %1s Y axis: %2s Z Axis %3s</string>
+    <string name="gravity">Gravity meters/second²:</string>
+    <string name="gravity_value">X axis: %1s Y axis: %2s Z Axis %3s</string>
+    <string name="proximity">Proximity:</string>
+    <string name="proximity_value">%s cm</string>
 </resources>
